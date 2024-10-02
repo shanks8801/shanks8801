@@ -1,0 +1,13 @@
+name = "Leslie"
+print("Hello", name)
+print(24)
+amount = 8
+amount = amount + 1
+print("The amount is: ", amount)
+q = 18
+q = q - 1 # using subtraction
+q -= 1 # does the same thing
+print("The value is now: ", q) # prints out "The value is now: 16"
+q = q / 2 # using division
+q /= 2 # same thing
+print("The value is now: ", q) # prints out "The value is now: 4.0"
